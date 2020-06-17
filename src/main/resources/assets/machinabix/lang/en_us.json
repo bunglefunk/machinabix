@@ -1,12 +1,17 @@
 {
-  "item.machinabix.palladium_ingot": "Palladium Ingot",
   "itemGroup.tabresources": "Resources",
   "item.machinabix.sodium_ingot": "Sodium Ingot",
   "item.machinabix.antimony_ingot": "Antimony Ingot",
+  "item.machinabix.jade_gem": "Jade Gem",
+  "item.machinabix.onyx_spike": "Onyx Spike",
+  "item.machinabix.palladium_ingot": "Palladium Ingot",
+  "block.machinabix.manganese_ore": "Manganese Ore",
   "item.machinabix.manganese_ingot": "Manganese Ingot",
   "item.machinabix.jade_hammer": "Jade Hammer",
-  "item.machinabix.jade_gem": "Jade Gem",
+  "block.machinabix.palladium_ore": "Palladium Ore",
   "itemGroup.tabtools": "Tools",
-  "item.machinabix.onyx_spike": "Onyx Spike",
-  "item.machinabix.onyx_shard": "Onyx Shard"
+  "block.machinabix.sodium_ore": "Sodium Ore",
+  "item.machinabix.onyx_shard": "Onyx Shard",
+  "block.machinabix.antimony_ore": "Antimony Ore",
+  "block.machinabix.bismuth_chunk": "Bismuth Deposit"
 }

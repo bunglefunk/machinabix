@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinabix:blocks/bismuth_ore",
+    "up": "machinabix:blocks/bismuth_ore",
+    "north": "machinabix:blocks/bismuth_ore",
+    "east": "machinabix:blocks/bismuth_ore",
+    "south": "machinabix:blocks/bismuth_ore",
+    "west": "machinabix:blocks/bismuth_ore",
+    "particle": "machinabix:blocks/bismuth_ore"
+  }
+}

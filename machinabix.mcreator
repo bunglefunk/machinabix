@@ -99,22 +99,72 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jade_hammer_r"
+    },
+    {
+      "name": "SodiumOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sodium_ore"
+    },
+    {
+      "name": "ManganeseOre",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manganese_ore"
+    },
+    {
+      "name": "PalladiumOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palladium_ore"
+    },
+    {
+      "name": "AntimonyOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimony_ore"
+    },
+    {
+      "name": "BismuthChunk",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bismuth_chunk"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.machinabix.palladium_ingot": "Palladium Ingot",
       "itemGroup.tabresources": "Resources",
       "item.machinabix.sodium_ingot": "Sodium Ingot",
       "item.machinabix.antimony_ingot": "Antimony Ingot",
+      "item.machinabix.jade_gem": "Jade Gem",
+      "item.machinabix.onyx_spike": "Onyx Spike",
+      "item.machinabix.palladium_ingot": "Palladium Ingot",
+      "block.machinabix.manganese_ore": "Manganese Ore",
       "item.machinabix.manganese_ingot": "Manganese Ingot",
       "item.machinabix.jade_hammer": "Jade Hammer",
-      "item.machinabix.jade_gem": "Jade Gem",
+      "block.machinabix.palladium_ore": "Palladium Ore",
       "itemGroup.tabtools": "Tools",
-      "item.machinabix.onyx_spike": "Onyx Spike",
-      "item.machinabix.onyx_shard": "Onyx Shard"
+      "block.machinabix.sodium_ore": "Sodium Ore",
+      "item.machinabix.onyx_shard": "Onyx Shard",
+      "block.machinabix.antimony_ore": "Antimony Ore",
+      "block.machinabix.bismuth_chunk": "Bismuth Deposit"
     }
   },
   "workspaceSettings": {
