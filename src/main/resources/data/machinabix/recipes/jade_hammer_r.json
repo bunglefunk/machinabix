@@ -1,0 +1,42 @@
+{
+  "group": "machinabix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "machinabix:jade_gem"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "machinabix:jade_gem"
+    },
+    "4": {
+      "item": "machinabix:onyx_shard"
+    },
+    "5": {
+      "item": "machinabix:jade_gem"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "machinabix:jade_gem"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "machinabix:jade_hammer",
+    "count": 1
+  }
+}

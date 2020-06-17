@@ -4,5 +4,9 @@
   "item.machinabix.sodium_ingot": "Sodium Ingot",
   "item.machinabix.antimony_ingot": "Antimony Ingot",
   "item.machinabix.manganese_ingot": "Manganese Ingot",
-  "item.machinabix.jade_gem": "Jade Gem"
+  "item.machinabix.jade_hammer": "Jade Hammer",
+  "item.machinabix.jade_gem": "Jade Gem",
+  "itemGroup.tabtools": "Tools",
+  "item.machinabix.onyx_spike": "Onyx Spike",
+  "item.machinabix.onyx_shard": "Onyx Shard"
 }

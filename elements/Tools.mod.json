@@ -2,10 +2,10 @@
   "_fv": 8,
   "_type": "tab",
   "definition": {
-    "name": "Resources",
+    "name": "Tools",
     "icon": {
       "value": "CUSTOM:OnyxShard"
     },
-    "showSearch": true
+    "showSearch": false
   }
 }

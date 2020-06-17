@@ -54,6 +54,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jade_gem"
+    },
+    {
+      "name": "OnyxShard",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_shard"
+    },
+    {
+      "name": "Tools",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tools"
+    },
+    {
+      "name": "JadeHammer",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_hammer"
+    },
+    {
+      "name": "OnyxSpike",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onyx_spike"
+    },
+    {
+      "name": "JadeHammerR",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_hammer_r"
     }
   ],
   "variable_elements": [],
@@ -65,7 +110,11 @@
       "item.machinabix.sodium_ingot": "Sodium Ingot",
       "item.machinabix.antimony_ingot": "Antimony Ingot",
       "item.machinabix.manganese_ingot": "Manganese Ingot",
-      "item.machinabix.jade_gem": "Jade Gem"
+      "item.machinabix.jade_hammer": "Jade Hammer",
+      "item.machinabix.jade_gem": "Jade Gem",
+      "itemGroup.tabtools": "Tools",
+      "item.machinabix.onyx_spike": "Onyx Spike",
+      "item.machinabix.onyx_shard": "Onyx Shard"
     }
   },
   "workspaceSettings": {
