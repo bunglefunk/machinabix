@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Resources",
+    "icon": {
+      "value": "Blocks.STONE#0"
+    },
+    "showSearch": true
+  }
+}
