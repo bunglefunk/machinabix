@@ -11,14 +11,14 @@ import net.mcreator.machinabix.item.OnyxShardItem;
 import net.mcreator.machinabix.MachinabixModElements;
 
 @MachinabixModElements.ModElement.Tag
-public class ResourcesItemGroup extends MachinabixModElements.ModElement {
-	public ResourcesItemGroup(MachinabixModElements instance) {
-		super(instance, 1);
+public class ToolsItemGroup extends MachinabixModElements.ModElement {
+	public ToolsItemGroup(MachinabixModElements instance) {
+		super(instance, 7);
 	}
 
 	@Override
 	public void initElements() {
-		tab = new ItemGroup("tabresources") {
+		tab = new ItemGroup("tabtools") {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
@@ -27,9 +27,9 @@ public class ResourcesItemGroup extends MachinabixModElements.ModElement {
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return true;
+				return false;
 			}
-		}.setBackgroundImageName("item_search.png");
+		};
 	}
 	public static ItemGroup tab;
 }

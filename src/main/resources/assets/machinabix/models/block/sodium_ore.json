@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinabix:blocks/sodium_ore",
+    "up": "machinabix:blocks/sodium_ore",
+    "north": "machinabix:blocks/sodium_ore",
+    "east": "machinabix:blocks/sodium_ore",
+    "south": "machinabix:blocks/sodium_ore",
+    "west": "machinabix:blocks/sodium_ore",
+    "particle": "machinabix:blocks/sodium_ore"
+  }
+}

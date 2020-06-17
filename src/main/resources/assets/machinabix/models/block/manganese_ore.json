@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinabix:blocks/manganese_ore",
+    "up": "machinabix:blocks/manganese_ore",
+    "north": "machinabix:blocks/manganese_ore",
+    "east": "machinabix:blocks/manganese_ore",
+    "south": "machinabix:blocks/manganese_ore",
+    "west": "machinabix:blocks/manganese_ore",
+    "particle": "machinabix:blocks/manganese_ore"
+  }
+}

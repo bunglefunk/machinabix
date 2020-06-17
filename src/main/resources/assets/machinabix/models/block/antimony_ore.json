@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinabix:blocks/antimony_ore",
+    "up": "machinabix:blocks/antimony_ore",
+    "north": "machinabix:blocks/antimony_ore",
+    "east": "machinabix:blocks/antimony_ore",
+    "south": "machinabix:blocks/antimony_ore",
+    "west": "machinabix:blocks/antimony_ore",
+    "particle": "machinabix:blocks/antimony_ore"
+  }
+}
