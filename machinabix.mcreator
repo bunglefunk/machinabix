@@ -1,10 +1,72 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Resources",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resources"
+    },
+    {
+      "name": "SodiumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sodium_ingot"
+    },
+    {
+      "name": "ManganeseIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manganese_ingot"
+    },
+    {
+      "name": "PalladiumIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palladium_ingot"
+    },
+    {
+      "name": "AntimonyIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "antimony_ingot"
+    },
+    {
+      "name": "JadeGem",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_gem"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.machinabix.palladium_ingot": "Palladium Ingot",
+      "itemGroup.tabresources": "Resources",
+      "item.machinabix.sodium_ingot": "Sodium Ingot",
+      "item.machinabix.antimony_ingot": "Antimony Ingot",
+      "item.machinabix.manganese_ingot": "Manganese Ingot",
+      "item.machinabix.jade_gem": "Jade Gem"
+    }
   },
   "workspaceSettings": {
     "modid": "machinabix",
